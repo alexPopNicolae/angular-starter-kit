@@ -1,0 +1,19 @@
+{
+  "name": "angular-starter-kit",
+  "version": "1.0.0",
+  "description": "Angular JS starter kit with webpack and ES2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexPopNicolae/angular-starter-kit.git"
+  },
+  "author": "Alex Pop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexPopNicolae/angular-starter-kit/issues"
+  },
+  "homepage": "https://github.com/alexPopNicolae/angular-starter-kit#readme"
+}
